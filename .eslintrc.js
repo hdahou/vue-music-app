@@ -17,6 +17,7 @@ module.exports = {
     "vue/multi-word-component-names": "off",
     "linebreak-style": "off",
     "vuejs-accessibility/label-has-for": "off",
+    "vuejs-accessibility/click-events-have-key-events": "off",
   },
   overrides: [
     {
